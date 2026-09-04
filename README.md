@@ -1,4 +1,4 @@
-# 🕵️ Image Recognition System – Zero-Trust Biometric Security Suite
+# 🕵️ Image Recognition System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Security](https://img.shields.io/badge/Security-AES--256%20%7C%20bcrypt%20%7C%20HMAC-red)](https://cryptography.io)
